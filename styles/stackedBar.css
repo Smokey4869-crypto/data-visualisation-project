@@ -1,0 +1,10 @@
+.axis-title {
+    font-weight: 600;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 1070;
+    display: block;
+    margin: 0;
+}

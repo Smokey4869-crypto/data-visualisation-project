@@ -1,0 +1,29 @@
+source,target,value
+Africa,Lawful PR, 87696
+Asia,Lawful PR, 401224
+Europe,Lawful PR, 78588
+North America,Lawful PR, 333064
+Oceania,Lawful PR, 6096
+South America,Lawful PR, 95969
+Unknown,Lawful PR, 15367
+Africa,Refugee, 25465
+Asia,Refugee, 11371
+Europe,Refugee, 9456
+North America,Refugee, 2137
+Oceania,Refugee, 2061
+South America,Refugee, 424
+Unknown,Refugee, 16
+Africa,Naturalization, 103019
+Asia,Naturalization, 349168
+Europe,Naturalization, 96584
+North America,Naturalization, 333987
+Oceania,Naturalization, 5990
+South America,Naturalization, 77648
+Unknown,Naturalization, 734
+Africa,Nonimmigrant, 439472
+Asia,Nonimmigrant, 4969477
+Europe,Nonimmigrant, 10500523
+North America,Nonimmigrant, 22242911
+Oceania,Nonimmigrant, 639089
+South America,Nonimmigrant, 4329067
+Unknown,Nonimmigrant, 56314
