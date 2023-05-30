@@ -81,7 +81,7 @@ function drawScatterPlotChart(data, svg) {
         .on("mouseover", onMouseOver)
         .on("mousemove", onMouseMove)
         .on("mouseleave", onMouseLeave)
-        .on("click", function () {
+        .on("click", function (d) {
             // Change color of clicked dot
             if (d3.select(this).style("fill") === "red") {
                 d3.select(this).style("fill", "#131BC1")
@@ -91,6 +91,11 @@ function drawScatterPlotChart(data, svg) {
                     .style("fill", "#131BC1");
                 d3.select(this).style("fill", "red");
             }
+
+            document.getElementById("current").textContent = "Current Selected State: " + d.States 
+            document.getElementById("immigration").textContent = "Immigration: " + d.Immigration
+            document.getElementById("emigration").textContent = "Emigration: " + d.Emigration
+            document.getElementById("current-year").textContent = "Year: " + years[yearIndex]
         });
 
     // Add reference lines
@@ -204,6 +209,8 @@ function generateDropdown(svg, data) {
 
     function handleSelectChange(e) {
         automatic = false
+        document.getElementById("automatic").textContent = "Automatic: " + (automatic ? "On" : "Off")
+
         const selectedYear = e.target.value
         yearIndex = years.indexOf(selectedYear)
         document.getElementById("year").textContent = "Data displayed for year " + selectedYear
