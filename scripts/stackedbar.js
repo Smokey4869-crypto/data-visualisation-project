@@ -1,19 +1,39 @@
-let svgWidth = 960
-let svgHeight = 500
+import { drawStackedPieChart } from "./stackedPie.js"
+
+let barChartWidth = 960,
+    barChartHeight = 500
+
+let pieChartWidth = 450,
+    pieChartHeight = 450
 
 let margin = {
     top: 20,
     right: 200,
-    bottom: 100,
+    bottom: 80,
     left: 50
 }
 
-let w = svgWidth - margin.left - margin.right
-let h = svgHeight - margin.top - margin.bottom
+let marginPie = {
+    top: 30,
+    right: 0, 
+    bottom: 100,
+    left: 0
+}
+
+// Stacked Bar
+let w = barChartWidth - margin.left - margin.right
+let h = barChartHeight - margin.top - margin.bottom
+
+// Stacked Pie
+let wPie = pieChartWidth - marginPie.left - marginPie.right
+let hPie = pieChartHeight - marginPie.bottom
 
 let legendSizeSquare = 30
-let originalData = {}
-let dataset
+
+// raw data
+let originalDataStackedPie = {}
+
+// processed data to draw chart
 let datasetTotal
 let xScale, yScale,
     xAxis, yAxis
@@ -21,28 +41,24 @@ let xScale, yScale,
 let color = d3.scaleOrdinal()
     .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
-
-d3.json("data/reasons_for_moving_details.json", function (error, json) {
-    originalData = json
-    dataset.push(json.reason1)
-    dataset.push(json.reason2)
-    dataset.push(json.reason3)
-    dataset.push(json.reason4)
-});
+// Data for stacked pie chart
+d3.json("data/reasons_for_moving_draft.json", function (error, json) {
+    originalDataStackedPie = json
+})
 
 function stackBarChart(svg, datasetTotal) {
     let subgroups = datasetTotal.columns.slice(2)
     datasetTotal.forEach(function (d) {
         // Compute the total
-        tot = 0
-        for (i in subgroups) {
+        let total = 0
+        for (let i in subgroups) {
             let name = subgroups[i];
-            tot += +d[name]
+            total += +d[name]
         }
         // Now normalize
-        for (i in subgroups) {
+        for (let i in subgroups) {
             let name = subgroups[i];
-            d[name] = d[name] / tot * 100
+            d[name] = d[name] / total * 100
         }
     })
 
@@ -68,7 +84,7 @@ function stackBarChart(svg, datasetTotal) {
         .attr("transform", "translate(" + margin.left + ",0)")
 
     // tooltip
-    let tooltip = d3.select("#chart")
+    let tooltip = d3.select("#chart-bar")
         .append("div")
         .style("opacity", 0)
         .attr("class", "tooltip")
@@ -79,19 +95,19 @@ function stackBarChart(svg, datasetTotal) {
         .style("padding", "10px")
 
     // Three function that change the tooltip when user hover / move / leave a cell
-    let mouseover = function (d) {
-        var subgroupName = d3.select(this.parentNode).datum().key;
-        var subgroupValue = d.data[subgroupName];
+    const onMouseOver = function (d) {
+        let subgroupName = d3.select(this.parentNode).datum().key;
+        let subgroupValue = d.data[subgroupName];
         tooltip
             .html(subgroupName + "<br>" + "Value: " + subgroupValue.toFixed(2))
             .style("opacity", 1)
     }
-    let mousemove = function (d) {
+    const onMouseMove = function (d) {
         tooltip
             .style("left", (d3.mouse(this)[0]) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
             .style("top", (d3.mouse(this)[1]) + "px")
     }
-    let mouseleave = function (d) {
+    const onMouseLeave = function (d) {
         tooltip
             .style("opacity", 0)
     }
@@ -99,7 +115,7 @@ function stackBarChart(svg, datasetTotal) {
     // x-axis title 
     svg.append("text")
         .attr("x", w / 2)
-        .attr("y", h + margin.bottom / 2 - 10)
+        .attr("y", h + margin.bottom * 3/5 - 10)
         .text("Mobility Period")
         .classed("axis-title", true)
 
@@ -131,7 +147,7 @@ function stackBarChart(svg, datasetTotal) {
         .attr("x", w / 2)
         .attr("width", legendSizeSquare)
         .attr("height", legendSizeSquare)
-        .attr("fill", function(d, i) {
+        .attr("fill", function (d, i) {
             return color(i)
         });
 
@@ -156,9 +172,41 @@ function stackBarChart(svg, datasetTotal) {
             return (yScale(d[0]) - yScale(d[1]));
         })
         .attr("width", xScale.bandwidth())
-        .on("mouseover", mouseover)
-        .on("mousemove", mousemove)
-        .on("mouseleave", mouseleave)
+        .on("mouseover", onMouseOver)
+        .on("mousemove", onMouseMove)
+        .on("mouseleave", onMouseLeave)
+        .on("click", function (d) {
+            d3.select("#chart-pie").remove();
+
+            let newElement = document.createElement("div");
+            newElement.setAttribute("id", "chart-pie");
+
+            let parentNode = document.getElementById("content");
+            parentNode.appendChild(newElement)
+
+            let title = document.createElement("h3");
+            title.textContent = "Mobility Period " + d.data["Mobility Period"]
+
+            let info = document.createElement("p");
+            info.textContent = "Hover on the chart to see details"
+            info.style.fontWeight = 600
+            info.style.fontSize = "0.8rem"
+
+            newElement.appendChild(title)
+            newElement.appendChild(info)
+
+            let svgPie = d3.select("#chart-pie")
+                .append("svg")
+                .attr("width", wPie)
+                .attr("height", hPie)
+                .append("g")
+                .attr("transform", "translate(" + wPie / 2 + "," + hPie / 2 + ")");
+
+            let maxRadius = Math.min(wPie, hPie) / 2;
+
+            const dataToDraw = originalDataStackedPie[d.data["Mobility Period"]]
+            drawStackedPieChart(dataToDraw, svgPie, maxRadius)
+        })
 }
 
 window.onload = function () {
@@ -183,10 +231,10 @@ window.onload = function () {
         xAxis = d3.axisBottom()
             .scale(xScale)
 
-        let svg = d3.select("body")
+        let svg = d3.select("#chart-bar")
             .append("svg")
-            .attr("width", svgWidth)
-            .attr("height", svgHeight);
+            .attr("width", barChartWidth)
+            .attr("height", barChartHeight);
 
         stackBarChart(svg, datasetTotal);
     })

@@ -157,25 +157,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 29.3
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 6.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 10.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 12.3
                     }
                 }
             ]
@@ -183,37 +183,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 19.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 9.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 1.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 5.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 0.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 2.1
                     }
                 }
             ]
@@ -221,43 +221,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 49.5
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 4.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 15.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 3.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 8.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 2.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 14.4
                     }
                 }
             ]
@@ -265,7 +265,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 1.9
             },
             "subData": [
                 {
@@ -277,31 +277,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 0.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
+                        "value": 0.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 0.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Natural disaster",
-                        "value": 0.1
+                        "value": 0.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 0.9
                     }
                 }
             ]
@@ -311,25 +311,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 30.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 5.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 10.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 14.8
                     }
                 }
             ]
@@ -337,37 +337,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 19.5
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 9.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 2.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 5.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 2.3
                     }
                 }
             ]
@@ -375,43 +375,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 47.9
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 5.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 14.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 3.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 8.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 1.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 14.0
                     }
                 }
             ]
@@ -419,7 +419,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 2.4
             },
             "subData": [
                 {
@@ -431,31 +431,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 0.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
-                    }
-                },
-                {
-                    "nodeData": {
-                        "name": "Health reasons",
-                        "value": 1.6
-                    }
-                },
-                {
-                    "nodeData": {
-                        "name": "Natural disaster",
                         "value": 0.1
                     }
                 },
                 {
                     "nodeData": {
+                        "name": "Health reasons",
+                        "value": 0.4
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Natural disaster",
+                        "value": 0.0
+                    }
+                },
+                {
+                    "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 1.3
                     }
                 }
             ]
@@ -465,25 +465,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 29.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 4.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 11.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 13.4
                     }
                 }
             ]
@@ -491,37 +491,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 20.7
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 9.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 2.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 6.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 2.0
                     }
                 }
             ]
@@ -529,43 +529,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 47.9
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 5.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 15.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 3.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 9.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 1.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 12.8
                     }
                 }
             ]
@@ -573,7 +573,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 2
             },
             "subData": [
                 {
@@ -585,31 +585,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 0.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
-                    }
-                },
-                {
-                    "nodeData": {
-                        "name": "Health reasons",
-                        "value": 1.6
-                    }
-                },
-                {
-                    "nodeData": {
-                        "name": "Natural disaster",
                         "value": 0.1
                     }
                 },
                 {
                     "nodeData": {
+                        "name": "Health reasons",
+                        "value": 0.4
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Natural disaster",
+                        "value": 0.0
+                    }
+                },
+                {
+                    "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 1.0
                     }
                 }
             ]
@@ -619,25 +619,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 31.1
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 5.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 11.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 14.3
                     }
                 }
             ]
@@ -645,37 +645,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 20.5
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 10.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 1.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 4.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 1.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 2.3
                     }
                 }
             ]
@@ -683,43 +683,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 46.1
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 5.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 15.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 2.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 7.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 14.4
                     }
                 }
             ]
@@ -727,7 +727,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 2.3
             },
             "subData": [
                 {
@@ -739,31 +739,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 0.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
+                        "value": 0.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 0.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Natural disaster",
-                        "value": 0.1
+                        "value": 0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 1.5
                     }
                 }
             ]
@@ -773,25 +773,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 27.5
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 4.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 12.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 10.5
                     }
                 }
             ]
@@ -799,37 +799,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 20.2
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 10.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 1.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 6.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 1.2
                     }
                 }
             ]
@@ -837,43 +837,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 42.2
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 5.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 17.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 3.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 8.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 0.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 6.7
                     }
                 }
             ]
@@ -881,7 +881,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 10.3
             },
             "subData": [
                 {
@@ -893,19 +893,19 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 3.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
+                        "value": 0.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 1.8
                     }
                 },
                 {
@@ -917,7 +917,7 @@
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 4.4
                     }
                 }
             ]
@@ -927,25 +927,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 27.9
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 5.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 11.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 11.3
                     }
                 }
             ]
@@ -953,37 +953,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 18.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 9.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 1.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 5.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 0.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 0.9
                     }
                 }
             ]
@@ -991,43 +991,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 43.1
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 7.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 16.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 2.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 8.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 1.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 7.6
                     }
                 }
             ]
@@ -1035,7 +1035,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 10.7
             },
             "subData": [
                 {
@@ -1047,31 +1047,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 3.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
+                        "value": 0.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 1.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Natural disaster",
-                        "value": 0.1
+                        "value": 0.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 5.0
                     }
                 }
             ]
@@ -1081,25 +1081,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 28.1
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 4.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 12.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 11.1
                     }
                 }
             ]
@@ -1107,37 +1107,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 19.6
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 10.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 1.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 5.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 1.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 1.1
                     }
                 }
             ]
@@ -1145,43 +1145,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 41.6
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 7.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 16.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 2.6
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 7.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 6.7
                     }
                 }
             ]
@@ -1189,7 +1189,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 10.8
             },
             "subData": [
                 {
@@ -1201,31 +1201,31 @@
                 {
                     "nodeData": {
                         "name": "To attend or leave college",
-                        "value": 2.6
+                        "value": 2.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Change of climate",
-                        "value": 0.4
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 1.8
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Natural disaster",
-                        "value": 0.1
+                        "value": 0.5
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 5.0
                     }
                 }
             ]
@@ -1235,25 +1235,25 @@
         {
             "nodeData": {
                 "name": "Family-related",
-                "value": 27.8
+                "value": 26.8
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Change in marital status",
-                        "value": 5.5
+                        "value": 5.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To establish own household",
-                        "value": 9.5
+                        "value": 11.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other family reason",
-                        "value": 12.8
+                        "value": 10.4
                     }
                 }
             ]
@@ -1261,37 +1261,37 @@
         {
             "nodeData": {
                 "name": "Employment-related",
-                "value": 18.3
+                "value": 21.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "New job or job transfer",
-                        "value": 8.0
+                        "value": 12.1
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To look for work or lost job",
-                        "value": 2.6
+                        "value": 0.9
                     }
                 },
                 {
                     "nodeData": {
                         "name": "To be closer to work/easier commute",
-                        "value": 5.9
+                        "value": 6.2
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Retired",
-                        "value": 0.3
+                        "value": 1.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other job-related reason",
-                        "value": 1.5
+                        "value": 1.2
                     }
                 }
             ]
@@ -1299,43 +1299,43 @@
         {
             "nodeData": {
                 "name": "Housing-related",
-                "value": 44.9
+                "value": 40.4
             },
             "subData": [
                 {
                     "nodeData": {
                         "name": "Wanted to own home, not rent",
-                        "value": 4.4
+                        "value": 6.3
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted newer/better/\nlarger house or apartment",
-                        "value": 16.2
+                        "value": 17.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Wanted better neighborhood/\nless crime",
-                        "value": 3.9
+                        "value": 3.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Cheaper housing",
-                        "value": 10.5
+                        "value": 6.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Foreclosure/\neviction",
-                        "value": 1.2
+                        "value": 0.7
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other housing reason",
-                        "value": 8.7
+                        "value": 6.7
                     }
                 }
             ]
@@ -1343,7 +1343,7 @@
         {
             "nodeData": {
                 "name": "Other",
-                "value": 8.8
+                "value": 11.6
             },
             "subData": [
                 {
@@ -1361,25 +1361,179 @@
                 {
                     "nodeData": {
                         "name": "Change of climate",
+                        "value": 0.7
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Health reasons",
+                        "value": 2.3
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Natural disaster",
+                        "value": 0.6
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Other reasons",
+                        "value": 5.4
+                    }
+                }
+            ]
+        }
+    ],
+    "2019-2020": [
+        {
+            "nodeData": {
+                "name": "Family-related",
+                "value": 25.4
+            },
+            "subData": [
+                {
+                    "nodeData": {
+                        "name": "Change in marital status",
+                        "value": 6.1
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "To establish own household",
+                        "value": 10.6
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Other family reason",
+                        "value": 8.7
+                    }
+                }
+            ]
+        },
+        {
+            "nodeData": {
+                "name": "Employment-related",
+                "value": 19.7
+            },
+            "subData": [
+                {
+                    "nodeData": {
+                        "name": "New job or job transfer",
+                        "value": 11.4
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "To look for work or lost job",
+                        "value": 1.7
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "To be closer to work/easier commute",
+                        "value": 4.9
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Retired",
+                        "value": 1.3
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Other job-related reason",
+                        "value": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "nodeData": {
+                "name": "Housing-related",
+                "value": 40
+            },
+            "subData": [
+                {
+                    "nodeData": {
+                        "name": "Wanted to own home, not rent",
+                        "value": 7.8
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Wanted newer/better/\nlarger house or apartment",
+                        "value": 14.6
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Wanted better neighborhood/\nless crime",
+                        "value": 4.1
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Cheaper housing",
+                        "value": 6.6
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Foreclosure/\neviction",
+                        "value": 0.6
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Other housing reason",
+                        "value": 6.3
+                    }
+                }
+            ]
+        },
+        {
+            "nodeData": {
+                "name": "Other",
+                "value": 14.5
+            },
+            "subData": [
+                {
+                    "nodeData": {
+                        "name": "Relationship with unmarried partner",
+                        "value": 5.1
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "To attend or leave college",
+                        "value": 3.1
+                    }
+                },
+                {
+                    "nodeData": {
+                        "name": "Change of climate",
                         "value": 0.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Health reasons",
-                        "value": 1.6
+                        "value": 2.0
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Natural disaster",
-                        "value": 0.1
+                        "value": 0.4
                     }
                 },
                 {
                     "nodeData": {
                         "name": "Other reasons",
-                        "value": 4.1
+                        "value": 3.5
                     }
                 }
             ]

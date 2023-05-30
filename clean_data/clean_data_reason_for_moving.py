@@ -26,6 +26,7 @@ y = {
     "2016-2017": [],
     "2017-2018": [],
     "2018-2019": [],
+    "2019-2020": []
 }
 
 # JSON template per year
@@ -192,8 +193,9 @@ last_row = ws.max_row
 
 # Print the value of each cell in each column from rows 3 to last row
 
-for row in range(3, last_row+1):
+for row in range(12, 13):
     period = ws['A' + str(row)].value
+    print(row)
     
     for data in data_template:
         if data["nodeData"]["name"] == reason_1:
@@ -202,6 +204,7 @@ for row in range(3, last_row+1):
                 if ws[chr(i)+str(row)].value == "N":
                     data["subData"][i - ord('C')]["nodeData"]["value"] = 0
                 else:
+                    print(round(float(ws[chr(i)+str(row)].value), 1))
                     data["subData"][i - ord('C')]["nodeData"]["value"] = round(float(ws[chr(i)+str(row)].value), 1)
 
         if data["nodeData"]["name"] == reason_2:
@@ -228,13 +231,12 @@ for row in range(3, last_row+1):
                 else:
                     data["subData"][i - ord('Q')]["nodeData"]["value"] = round(float(ws[chr(i)+str(row)].value), 1)
 
-
         y[period].append(data)
 
 # Serializing JSON object
 json_object = json.dumps(y, indent=4)
 
 # Write JSON to new file
-with open("data/reasons_for_moving_draft.json", "w") as outfile:
+with open("data/reasons_for_moving_draft_2.json", "w") as outfile:
     outfile.write(json_object)
 

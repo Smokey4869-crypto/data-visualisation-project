@@ -1,5 +1,5 @@
 d3.sankey = function () {
-  var sankey = {},
+  let sankey = {},
     nodeWidth = 24,
     nodePadding = 8,
     size = [1, 1],
@@ -406,14 +406,14 @@ function drawSankey(data) {
 
   // add in the title for the nodes
   node.append("text")
-    .attr("x", 160)
+    .attr("x", 180)
     .attr("y", function (d) { return d.dy / 2; })
     .attr("dy", ".35em")
     .attr("text-anchor", "end")
     .attr("transform", null)
     .text(function (d) { return d.name; })
     .filter(function (d) { return d.x < width / 2; })
-    .attr("x", -160 + sankey.nodeWidth())
+    .attr("x", -180 + sankey.nodeWidth())
     .attr("text-anchor", "start");
 
   // the function for moving the nodes

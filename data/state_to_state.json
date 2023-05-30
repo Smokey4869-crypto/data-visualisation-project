@@ -1,0 +1,2522 @@
+{
+    "2010": [
+        {
+            "States": "Alabama",
+            "Immigration": 108723,
+            "Emigration": 99221
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 36326,
+            "Emigration": 94692
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 222725,
+            "Emigration": 176768
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 79127,
+            "Emigration": 64264
+        },
+        {
+            "States": "California",
+            "Immigration": 444749,
+            "Emigration": 573988
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 186366,
+            "Emigration": 140620
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 77333,
+            "Emigration": 89360
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 30759,
+            "Emigration": 30055
+        },
+        {
+            "States": "Florida",
+            "Immigration": 482889,
+            "Emigration": 427853
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 249459,
+            "Emigration": 244992
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 53581,
+            "Emigration": 49218
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 55638,
+            "Emigration": 53122
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 203959,
+            "Emigration": 277579
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 127353,
+            "Emigration": 130170
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 72557,
+            "Emigration": 66922
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 95059,
+            "Emigration": 90681
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 118443,
+            "Emigration": 92999
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 97889,
+            "Emigration": 88131
+        },
+        {
+            "States": "Maine",
+            "Immigration": 27758,
+            "Emigration": 32209
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 164484,
+            "Emigration": 159866
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 140162,
+            "Emigration": 144152
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 116149,
+            "Emigration": 178207
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 89872,
+            "Emigration": 104765
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 72321,
+            "Emigration": 68363
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 145226,
+            "Emigration": 148055
+        },
+        {
+            "States": "Montana",
+            "Immigration": 35630,
+            "Emigration": 35870
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 51290,
+            "Emigration": 43531
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 102677,
+            "Emigration": 109409
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 39367,
+            "Emigration": 38399
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 127369,
+            "Emigration": 193972
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 73605,
+            "Emigration": 50438
+        },
+        {
+            "States": "New York",
+            "Immigration": 269427,
+            "Emigration": 363139
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 263256,
+            "Emigration": 207025
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 30100,
+            "Emigration": 24450
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 172633,
+            "Emigration": 188013
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 106511,
+            "Emigration": 90616
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 116700,
+            "Emigration": 100185
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 235580,
+            "Emigration": 209810
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 32059,
+            "Emigration": 24948
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 152441,
+            "Emigration": 117569
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 25777,
+            "Emigration": 27915
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 159778,
+            "Emigration": 143135
+        },
+        {
+            "States": "Texas",
+            "Immigration": 486558,
+            "Emigration": 411641
+        },
+        {
+            "States": "Utah",
+            "Immigration": 77780,
+            "Emigration": 75541
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 22529,
+            "Emigration": 18380
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 259507,
+            "Emigration": 232002
+        },
+        {
+            "States": "Washington",
+            "Immigration": 191784,
+            "Emigration": 166162
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 39609,
+            "Emigration": 49349
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 93065,
+            "Emigration": 111240
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 28046,
+            "Emigration": 28186
+        }
+    ],
+    "2011": [
+        {
+            "States": "Alabama",
+            "Immigration": 117726,
+            "Emigration": 106806
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 35084,
+            "Emigration": 88850
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 222877,
+            "Emigration": 211816
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 69845,
+            "Emigration": 77226
+        },
+        {
+            "States": "California",
+            "Immigration": 468428,
+            "Emigration": 562343
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 202124,
+            "Emigration": 160623
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 71502,
+            "Emigration": 91295
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 33912,
+            "Emigration": 26631
+        },
+        {
+            "States": "Florida",
+            "Immigration": 498597,
+            "Emigration": 437202
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 271077,
+            "Emigration": 248892
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 57542,
+            "Emigration": 61940
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 60336,
+            "Emigration": 57831
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 216204,
+            "Emigration": 269008
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 127874,
+            "Emigration": 143228
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 70405,
+            "Emigration": 74516
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 83640,
+            "Emigration": 94180
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 110031,
+            "Emigration": 99256
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 99138,
+            "Emigration": 86593
+        },
+        {
+            "States": "Maine",
+            "Immigration": 33818,
+            "Emigration": 33729
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 153979,
+            "Emigration": 165041
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 139830,
+            "Emigration": 145869
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 139158,
+            "Emigration": 186505
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 101029,
+            "Emigration": 103253
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 68511,
+            "Emigration": 68597
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 149439,
+            "Emigration": 138404
+        },
+        {
+            "States": "Montana",
+            "Immigration": 33553,
+            "Emigration": 31204
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 52070,
+            "Emigration": 52809
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 110345,
+            "Emigration": 115943
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 37000,
+            "Emigration": 43277
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 140194,
+            "Emigration": 216369
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 62130,
+            "Emigration": 61431
+        },
+        {
+            "States": "New York",
+            "Immigration": 282209,
+            "Emigration": 377800
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 265291,
+            "Emigration": 225147
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 32510,
+            "Emigration": 26563
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 191778,
+            "Emigration": 206049
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 108878,
+            "Emigration": 81009
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 127906,
+            "Emigration": 109795
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 234291,
+            "Emigration": 215127
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 26769,
+            "Emigration": 31065
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 157644,
+            "Emigration": 121426
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 27506,
+            "Emigration": 29383
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 170969,
+            "Emigration": 154243
+        },
+        {
+            "States": "Texas",
+            "Immigration": 514726,
+            "Emigration": 404839
+        },
+        {
+            "States": "Utah",
+            "Immigration": 85217,
+            "Emigration": 73211
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 20463,
+            "Emigration": 18172
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 257130,
+            "Emigration": 229227
+        },
+        {
+            "States": "Washington",
+            "Immigration": 208507,
+            "Emigration": 190644
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 50068,
+            "Emigration": 45956
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 109439,
+            "Emigration": 105370
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 30651,
+            "Emigration": 31991
+        }
+    ],
+    "2012": [
+        {
+            "States": "Alabama",
+            "Immigration": 104600,
+            "Emigration": 109210
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 33415,
+            "Emigration": 84068
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 232457,
+            "Emigration": 206842
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 76948,
+            "Emigration": 64967
+        },
+        {
+            "States": "California",
+            "Immigration": 493641,
+            "Emigration": 566986
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 205060,
+            "Emigration": 161530
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 80311,
+            "Emigration": 87023
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 34757,
+            "Emigration": 25149
+        },
+        {
+            "States": "Florida",
+            "Immigration": 537148,
+            "Emigration": 428325
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 277466,
+            "Emigration": 252262
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 55145,
+            "Emigration": 61509
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 59283,
+            "Emigration": 55191
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 208755,
+            "Emigration": 277953
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 134137,
+            "Emigration": 144597
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 75760,
+            "Emigration": 73325
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 88284,
+            "Emigration": 93134
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 112787,
+            "Emigration": 103004
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 91215,
+            "Emigration": 95956
+        },
+        {
+            "States": "Maine",
+            "Immigration": 27523,
+            "Emigration": 38574
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 154983,
+            "Emigration": 157664
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 142577,
+            "Emigration": 158156
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 133981,
+            "Emigration": 175733
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 101042,
+            "Emigration": 115946
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 73500,
+            "Emigration": 66947
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 162930,
+            "Emigration": 142754
+        },
+        {
+            "States": "Montana",
+            "Immigration": 37690,
+            "Emigration": 33832
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 43266,
+            "Emigration": 48816
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 124285,
+            "Emigration": 98882
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 50484,
+            "Emigration": 38696
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 130223,
+            "Emigration": 219202
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 54693,
+            "Emigration": 63921
+        },
+        {
+            "States": "New York",
+            "Immigration": 270053,
+            "Emigration": 405864
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 273149,
+            "Emigration": 238663
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 38213,
+            "Emigration": 23959
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 196391,
+            "Emigration": 199202
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 108972,
+            "Emigration": 102572
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 118925,
+            "Emigration": 108182
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 215500,
+            "Emigration": 237156
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 33446,
+            "Emigration": 30498
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 156705,
+            "Emigration": 127418
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 26051,
+            "Emigration": 22534
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 177098,
+            "Emigration": 163843
+        },
+        {
+            "States": "Texas",
+            "Immigration": 507752,
+            "Emigration": 402187
+        },
+        {
+            "States": "Utah",
+            "Immigration": 87870,
+            "Emigration": 82165
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 24431,
+            "Emigration": 20056
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 250653,
+            "Emigration": 238540
+        },
+        {
+            "States": "Washington",
+            "Immigration": 215494,
+            "Emigration": 180462
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 47125,
+            "Emigration": 47425
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 99192,
+            "Emigration": 97724
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 31149,
+            "Emigration": 32228
+        }
+    ],
+    "2013": [
+        {
+            "States": "Alabama",
+            "Immigration": 104102,
+            "Emigration": 97219
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 34360,
+            "Emigration": 99931
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 236146,
+            "Emigration": 183178
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 70621,
+            "Emigration": 76963
+        },
+        {
+            "States": "California",
+            "Immigration": 485477,
+            "Emigration": 581679
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 206543,
+            "Emigration": 166348
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 88351,
+            "Emigration": 91600
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 36790,
+            "Emigration": 24771
+        },
+        {
+            "States": "Florida",
+            "Immigration": 529406,
+            "Emigration": 423995
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 278972,
+            "Emigration": 270146
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 58083,
+            "Emigration": 60437
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 61592,
+            "Emigration": 63788
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 223605,
+            "Emigration": 304644
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 133508,
+            "Emigration": 135472
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 75650,
+            "Emigration": 77470
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 89735,
+            "Emigration": 93983
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 103207,
+            "Emigration": 98713
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 91889,
+            "Emigration": 99711
+        },
+        {
+            "States": "Maine",
+            "Immigration": 36780,
+            "Emigration": 28840
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 161525,
+            "Emigration": 183316
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 135150,
+            "Emigration": 155524
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 144091,
+            "Emigration": 166996
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 104825,
+            "Emigration": 119221
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 68588,
+            "Emigration": 72430
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 159936,
+            "Emigration": 138612
+        },
+        {
+            "States": "Montana",
+            "Immigration": 40035,
+            "Emigration": 31590
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 45854,
+            "Emigration": 47755
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 126583,
+            "Emigration": 100922
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 44867,
+            "Emigration": 46086
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 136907,
+            "Emigration": 202319
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 56808,
+            "Emigration": 75597
+        },
+        {
+            "States": "New York",
+            "Immigration": 272066,
+            "Emigration": 401440
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 275922,
+            "Emigration": 247090
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 38908,
+            "Emigration": 29808
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 185749,
+            "Emigration": 201515
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 109255,
+            "Emigration": 100561
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 143841,
+            "Emigration": 111680
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 224280,
+            "Emigration": 247295
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 34108,
+            "Emigration": 36119
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 166047,
+            "Emigration": 128726
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 30042,
+            "Emigration": 29118
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 186525,
+            "Emigration": 159497
+        },
+        {
+            "States": "Texas",
+            "Immigration": 548034,
+            "Emigration": 409977
+        },
+        {
+            "States": "Utah",
+            "Immigration": 97869,
+            "Emigration": 91943
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 23180,
+            "Emigration": 21773
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 266348,
+            "Emigration": 236420
+        },
+        {
+            "States": "Washington",
+            "Immigration": 208215,
+            "Emigration": 191053
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 51957,
+            "Emigration": 48627
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 100846,
+            "Emigration": 110198
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 27584,
+            "Emigration": 28150
+        }
+    ],
+    "2014": [
+        {
+            "States": "Alabama",
+            "Immigration": 107919,
+            "Emigration": 111655
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 37842,
+            "Emigration": 92637
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 249730,
+            "Emigration": 203810
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 74741,
+            "Emigration": 65198
+        },
+        {
+            "States": "California",
+            "Immigration": 513968,
+            "Emigration": 593308
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 218728,
+            "Emigration": 173332
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 82746,
+            "Emigration": 95501
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 32166,
+            "Emigration": 27179
+        },
+        {
+            "States": "Florida",
+            "Immigration": 546501,
+            "Emigration": 437516
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 274095,
+            "Emigration": 245570
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 58144,
+            "Emigration": 60739
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 64633,
+            "Emigration": 56887
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 209536,
+            "Emigration": 323468
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 139846,
+            "Emigration": 136869
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 79194,
+            "Emigration": 76960
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 96467,
+            "Emigration": 93047
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 104975,
+            "Emigration": 98496
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 97814,
+            "Emigration": 85901
+        },
+        {
+            "States": "Maine",
+            "Immigration": 39065,
+            "Emigration": 32076
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 156787,
+            "Emigration": 177059
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 146622,
+            "Emigration": 153736
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 149991,
+            "Emigration": 173337
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 106783,
+            "Emigration": 121319
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 73927,
+            "Emigration": 72543
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 153320,
+            "Emigration": 154226
+        },
+        {
+            "States": "Montana",
+            "Immigration": 37561,
+            "Emigration": 35654
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 52200,
+            "Emigration": 43219
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 130390,
+            "Emigration": 103599
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 41393,
+            "Emigration": 41391
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 128911,
+            "Emigration": 208583
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 68917,
+            "Emigration": 70144
+        },
+        {
+            "States": "New York",
+            "Immigration": 258571,
+            "Emigration": 424074
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 286533,
+            "Emigration": 248938
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 39059,
+            "Emigration": 27685
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 196742,
+            "Emigration": 207006
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 111346,
+            "Emigration": 102615
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 137008,
+            "Emigration": 103111
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 232889,
+            "Emigration": 251844
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 32621,
+            "Emigration": 37876
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 171969,
+            "Emigration": 121524
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 28198,
+            "Emigration": 31154
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 182130,
+            "Emigration": 160057
+        },
+        {
+            "States": "Texas",
+            "Immigration": 538572,
+            "Emigration": 435107
+        },
+        {
+            "States": "Utah",
+            "Immigration": 90234,
+            "Emigration": 79697
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 22635,
+            "Emigration": 20424
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 262477,
+            "Emigration": 263767
+        },
+        {
+            "States": "Washington",
+            "Immigration": 220259,
+            "Emigration": 198200
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 47957,
+            "Emigration": 48804
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 117831,
+            "Emigration": 114724
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 25992,
+            "Emigration": 33465
+        }
+    ],
+    "2015": [
+        {
+            "States": "Alabama",
+            "Immigration": 114876,
+            "Emigration": 100809
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 34696,
+            "Emigration": 40552
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 253281,
+            "Emigration": 184476
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 81594,
+            "Emigration": 76673
+        },
+        {
+            "States": "California",
+            "Immigration": 514477,
+            "Emigration": 643710
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 227445,
+            "Emigration": 182945
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 76997,
+            "Emigration": 103343
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 44495,
+            "Emigration": 30881
+        },
+        {
+            "States": "Florida",
+            "Immigration": 584938,
+            "Emigration": 445320
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 283325,
+            "Emigration": 249302
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 53742,
+            "Emigration": 60459
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 73809,
+            "Emigration": 55885
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 209828,
+            "Emigration": 337592
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 147529,
+            "Emigration": 141616
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 85937,
+            "Emigration": 81054
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 91340,
+            "Emigration": 99652
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 106918,
+            "Emigration": 109026
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 93321,
+            "Emigration": 100167
+        },
+        {
+            "States": "Maine",
+            "Immigration": 30123,
+            "Emigration": 37053
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 168894,
+            "Emigration": 181803
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 132642,
+            "Emigration": 174793
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 142639,
+            "Emigration": 180337
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 108476,
+            "Emigration": 127471
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 69351,
+            "Emigration": 81358
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 159152,
+            "Emigration": 155529
+        },
+        {
+            "States": "Montana",
+            "Immigration": 42760,
+            "Emigration": 32620
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 52950,
+            "Emigration": 53210
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 135999,
+            "Emigration": 99409
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 53446,
+            "Emigration": 41885
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 144074,
+            "Emigration": 227380
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 55753,
+            "Emigration": 68415
+        },
+        {
+            "States": "New York",
+            "Immigration": 257611,
+            "Emigration": 448855
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 310612,
+            "Emigration": 237206
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 42618,
+            "Emigration": 31867
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 203475,
+            "Emigration": 213236
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 110878,
+            "Emigration": 98771
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 141162,
+            "Emigration": 109240
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 232683,
+            "Emigration": 262887
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 38344,
+            "Emigration": 29918
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 170366,
+            "Emigration": 134555
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 26962,
+            "Emigration": 25769
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 195923,
+            "Emigration": 176961
+        },
+        {
+            "States": "Texas",
+            "Immigration": 553032,
+            "Emigration": 445343
+        },
+        {
+            "States": "Utah",
+            "Immigration": 97361,
+            "Emigration": 84071
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 21232,
+            "Emigration": 22135
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 277715,
+            "Emigration": 268593
+        },
+        {
+            "States": "Washington",
+            "Immigration": 230907,
+            "Emigration": 178528
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 42078,
+            "Emigration": 51953
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 106511,
+            "Emigration": 109243
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 35947,
+            "Emigration": 31537
+        }
+    ],
+    "2016": [
+        {
+            "States": "Alabama",
+            "Immigration": 122220,
+            "Emigration": 99892
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 31300,
+            "Emigration": 42074
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 273257,
+            "Emigration": 192103
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 71083,
+            "Emigration": 72033
+        },
+        {
+            "States": "California",
+            "Immigration": 514758,
+            "Emigration": 657690
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 223260,
+            "Emigration": 193179
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 75586,
+            "Emigration": 112914
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 33400,
+            "Emigration": 28742
+        },
+        {
+            "States": "Florida",
+            "Immigration": 605018,
+            "Emigration": 433452
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 305040,
+            "Emigration": 258942
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 57229,
+            "Emigration": 64119
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 71556,
+            "Emigration": 55772
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 203713,
+            "Emigration": 345528
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 145782,
+            "Emigration": 137409
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 78263,
+            "Emigration": 76999
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 88830,
+            "Emigration": 92821
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 113238,
+            "Emigration": 103370
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 85371,
+            "Emigration": 92190
+        },
+        {
+            "States": "Maine",
+            "Immigration": 38590,
+            "Emigration": 32973
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 158647,
+            "Emigration": 186118
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 149408,
+            "Emigration": 176873
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 155874,
+            "Emigration": 156354
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 111307,
+            "Emigration": 121583
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 64639,
+            "Emigration": 77509
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 162809,
+            "Emigration": 159177
+        },
+        {
+            "States": "Montana",
+            "Immigration": 37775,
+            "Emigration": 31479
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 51448,
+            "Emigration": 47456
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 117899,
+            "Emigration": 88563
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 52457,
+            "Emigration": 45628
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 144359,
+            "Emigration": 226830
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 64802,
+            "Emigration": 65578
+        },
+        {
+            "States": "New York",
+            "Immigration": 260723,
+            "Emigration": 450136
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 330896,
+            "Emigration": 256563
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 29655,
+            "Emigration": 37658
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 195396,
+            "Emigration": 212041
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 102000,
+            "Emigration": 105685
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 139334,
+            "Emigration": 107169
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 252060,
+            "Emigration": 257792
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 32800,
+            "Emigration": 35606
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 165230,
+            "Emigration": 127686
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 31789,
+            "Emigration": 29654
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 170867,
+            "Emigration": 182813
+        },
+        {
+            "States": "Texas",
+            "Immigration": 531996,
+            "Emigration": 444340
+        },
+        {
+            "States": "Utah",
+            "Immigration": 107083,
+            "Emigration": 85803
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 21262,
+            "Emigration": 23693
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 264164,
+            "Emigration": 275671
+        },
+        {
+            "States": "Washington",
+            "Immigration": 257728,
+            "Emigration": 192362
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 47196,
+            "Emigration": 51476
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 118814,
+            "Emigration": 113882
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 26471,
+            "Emigration": 27184
+        }
+    ],
+    "2017": [
+        {
+            "States": "Alabama",
+            "Immigration": 111803,
+            "Emigration": 101466
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 30199,
+            "Emigration": 42972
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 261727,
+            "Emigration": 163214
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 79411,
+            "Emigration": 69850
+        },
+        {
+            "States": "California",
+            "Immigration": 523131,
+            "Emigration": 661026
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 226933,
+            "Emigration": 194296
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 83325,
+            "Emigration": 98971
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 38532,
+            "Emigration": 35653
+        },
+        {
+            "States": "Florida",
+            "Immigration": 566476,
+            "Emigration": 447586
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 278889,
+            "Emigration": 254956
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 46457,
+            "Emigration": 66597
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 71899,
+            "Emigration": 56954
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 195092,
+            "Emigration": 339435
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 142290,
+            "Emigration": 132094
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 77072,
+            "Emigration": 79358
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 86154,
+            "Emigration": 99660
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 103985,
+            "Emigration": 99490
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 72836,
+            "Emigration": 102212
+        },
+        {
+            "States": "Maine",
+            "Immigration": 34252,
+            "Emigration": 27425
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 165654,
+            "Emigration": 183900
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 146299,
+            "Emigration": 173033
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 148787,
+            "Emigration": 148059
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 115623,
+            "Emigration": 125130
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 73549,
+            "Emigration": 78043
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 164957,
+            "Emigration": 153284
+        },
+        {
+            "States": "Montana",
+            "Immigration": 35456,
+            "Emigration": 28012
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 52507,
+            "Emigration": 47760
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 133074,
+            "Emigration": 98226
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 52893,
+            "Emigration": 41740
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 152106,
+            "Emigration": 224961
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 57255,
+            "Emigration": 67296
+        },
+        {
+            "States": "New York",
+            "Immigration": 285252,
+            "Emigration": 452580
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 313834,
+            "Emigration": 243206
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 37315,
+            "Emigration": 37344
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 198929,
+            "Emigration": 206479
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 101961,
+            "Emigration": 96005
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 149513,
+            "Emigration": 109454
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 250120,
+            "Emigration": 254634
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 36850,
+            "Emigration": 30166
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 166573,
+            "Emigration": 128797
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 26106,
+            "Emigration": 27412
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 191909,
+            "Emigration": 155665
+        },
+        {
+            "States": "Texas",
+            "Immigration": 524511,
+            "Emigration": 467338
+        },
+        {
+            "States": "Utah",
+            "Immigration": 99584,
+            "Emigration": 89721
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 21868,
+            "Emigration": 20872
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 250490,
+            "Emigration": 262563
+        },
+        {
+            "States": "Washington",
+            "Immigration": 260787,
+            "Emigration": 198813
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 40007,
+            "Emigration": 43321
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 112519,
+            "Emigration": 113492
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 18511,
+            "Emigration": 25954
+        }
+    ],
+    "2018": [
+        {
+            "States": "Alabama",
+            "Immigration": 109301,
+            "Emigration": 98194
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 32099,
+            "Emigration": 39246
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 273714,
+            "Emigration": 179586
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 73179,
+            "Emigration": 69724
+        },
+        {
+            "States": "California",
+            "Immigration": 501023,
+            "Emigration": 691145
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 239153,
+            "Emigration": 203460
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 84718,
+            "Emigration": 114235
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 34451,
+            "Emigration": 33395
+        },
+        {
+            "States": "Florida",
+            "Immigration": 587261,
+            "Emigration": 470977
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 274273,
+            "Emigration": 231337
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 54074,
+            "Emigration": 67293
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 79765,
+            "Emigration": 55183
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 206620,
+            "Emigration": 305033
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 145256,
+            "Emigration": 136563
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 74199,
+            "Emigration": 70659
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 95748,
+            "Emigration": 96850
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 110456,
+            "Emigration": 100514
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 81355,
+            "Emigration": 95326
+        },
+        {
+            "States": "Maine",
+            "Immigration": 34706,
+            "Emigration": 25012
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 163216,
+            "Emigration": 182323
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 144042,
+            "Emigration": 179017
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 139276,
+            "Emigration": 152605
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 100270,
+            "Emigration": 112228
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 68000,
+            "Emigration": 76567
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 152326,
+            "Emigration": 174949
+        },
+        {
+            "States": "Montana",
+            "Immigration": 43375,
+            "Emigration": 35292
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 54579,
+            "Emigration": 54462
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 127362,
+            "Emigration": 89791
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 48367,
+            "Emigration": 43633
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 159846,
+            "Emigration": 231321
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 60068,
+            "Emigration": 74459
+        },
+        {
+            "States": "New York",
+            "Immigration": 254447,
+            "Emigration": 458014
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 318681,
+            "Emigration": 238947
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 33735,
+            "Emigration": 33006
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 198026,
+            "Emigration": 206948
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 106943,
+            "Emigration": 97474
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 140627,
+            "Emigration": 132698
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 253520,
+            "Emigration": 240832
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 32841,
+            "Emigration": 31423
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 186505,
+            "Emigration": 141258
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 26775,
+            "Emigration": 28747
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 209377,
+            "Emigration": 173250
+        },
+        {
+            "States": "Texas",
+            "Immigration": 563945,
+            "Emigration": 462140
+        },
+        {
+            "States": "Utah",
+            "Immigration": 100824,
+            "Emigration": 91741
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 26306,
+            "Emigration": 20832
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 274003,
+            "Emigration": 262345
+        },
+        {
+            "States": "Washington",
+            "Immigration": 260906,
+            "Emigration": 222472
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 43841,
+            "Emigration": 46546
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 114613,
+            "Emigration": 105789
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 25734,
+            "Emigration": 26078
+        }
+    ],
+    "2019": [
+        {
+            "States": "Alabama",
+            "Immigration": 104780,
+            "Emigration": 98704
+        },
+        {
+            "States": "Alaska",
+            "Immigration": 34031,
+            "Emigration": 50134
+        },
+        {
+            "States": "Arizona",
+            "Immigration": 253295,
+            "Emigration": 173631
+        },
+        {
+            "States": "Arkansas",
+            "Immigration": 59723,
+            "Emigration": 64524
+        },
+        {
+            "States": "California",
+            "Immigration": 480204,
+            "Emigration": 653551
+        },
+        {
+            "States": "Colorado",
+            "Immigration": 240600,
+            "Emigration": 198416
+        },
+        {
+            "States": "Connecticut",
+            "Immigration": 90044,
+            "Emigration": 105243
+        },
+        {
+            "States": "Delaware",
+            "Immigration": 38014,
+            "Emigration": 28367
+        },
+        {
+            "States": "Florida",
+            "Immigration": 601611,
+            "Emigration": 457301
+        },
+        {
+            "States": "Georgia",
+            "Immigration": 284541,
+            "Emigration": 253565
+        },
+        {
+            "States": "Hawaii",
+            "Immigration": 49708,
+            "Emigration": 68417
+        },
+        {
+            "States": "Idaho",
+            "Immigration": 78730,
+            "Emigration": 54826
+        },
+        {
+            "States": "Illinois",
+            "Immigration": 190627,
+            "Emigration": 308179
+        },
+        {
+            "States": "Indiana",
+            "Immigration": 151443,
+            "Emigration": 142441
+        },
+        {
+            "States": "Iowa",
+            "Immigration": 72651,
+            "Emigration": 74697
+        },
+        {
+            "States": "Kansas",
+            "Immigration": 94648,
+            "Emigration": 88983
+        },
+        {
+            "States": "Kentucky",
+            "Immigration": 100057,
+            "Emigration": 101061
+        },
+        {
+            "States": "Louisiana",
+            "Immigration": 67640,
+            "Emigration": 95887
+        },
+        {
+            "States": "Maine",
+            "Immigration": 36129,
+            "Emigration": 38267
+        },
+        {
+            "States": "Maryland",
+            "Immigration": 141766,
+            "Emigration": 183299
+        },
+        {
+            "States": "Massachusetts",
+            "Immigration": 144079,
+            "Emigration": 178104
+        },
+        {
+            "States": "Michigan",
+            "Immigration": 132008,
+            "Emigration": 152365
+        },
+        {
+            "States": "Minnesota",
+            "Immigration": 106920,
+            "Emigration": 114258
+        },
+        {
+            "States": "Mississippi",
+            "Immigration": 61683,
+            "Emigration": 60094
+        },
+        {
+            "States": "Missouri",
+            "Immigration": 152345,
+            "Emigration": 135762
+        },
+        {
+            "States": "Montana",
+            "Immigration": 40862,
+            "Emigration": 39242
+        },
+        {
+            "States": "Nebraska",
+            "Immigration": 46064,
+            "Emigration": 52425
+        },
+        {
+            "States": "Nevada",
+            "Immigration": 132950,
+            "Emigration": 105357
+        },
+        {
+            "States": "New Hampshire",
+            "Immigration": 50288,
+            "Emigration": 42162
+        },
+        {
+            "States": "New Jersey",
+            "Immigration": 149260,
+            "Emigration": 229484
+        },
+        {
+            "States": "New Mexico",
+            "Immigration": 55545,
+            "Emigration": 71212
+        },
+        {
+            "States": "New York",
+            "Immigration": 254806,
+            "Emigration": 439708
+        },
+        {
+            "States": "North Carolina",
+            "Immigration": 315215,
+            "Emigration": 255346
+        },
+        {
+            "States": "North Dakota",
+            "Immigration": 36668,
+            "Emigration": 29871
+        },
+        {
+            "States": "Ohio",
+            "Immigration": 205542,
+            "Emigration": 192506
+        },
+        {
+            "States": "Oklahoma",
+            "Immigration": 101844,
+            "Emigration": 85599
+        },
+        {
+            "States": "Oregon",
+            "Immigration": 129921,
+            "Emigration": 115723
+        },
+        {
+            "States": "Pennsylvania",
+            "Immigration": 267465,
+            "Emigration": 256901
+        },
+        {
+            "States": "Rhode Island",
+            "Immigration": 34984,
+            "Emigration": 31137
+        },
+        {
+            "States": "South Carolina",
+            "Immigration": 176008,
+            "Emigration": 129227
+        },
+        {
+            "States": "South Dakota",
+            "Immigration": 26934,
+            "Emigration": 27542
+        },
+        {
+            "States": "Tennessee",
+            "Immigration": 196765,
+            "Emigration": 156558
+        },
+        {
+            "States": "Texas",
+            "Immigration": 559661,
+            "Emigration": 453015
+        },
+        {
+            "States": "Utah",
+            "Immigration": 95608,
+            "Emigration": 88426
+        },
+        {
+            "States": "Vermont",
+            "Immigration": 21212,
+            "Emigration": 22714
+        },
+        {
+            "States": "Virginia",
+            "Immigration": 264855,
+            "Emigration": 276849
+        },
+        {
+            "States": "Washington",
+            "Immigration": 231956,
+            "Emigration": 199758
+        },
+        {
+            "States": "West Virginia",
+            "Immigration": 39548,
+            "Emigration": 40460
+        },
+        {
+            "States": "Wisconsin",
+            "Immigration": 107973,
+            "Emigration": 101668
+        },
+        {
+            "States": "Wyoming",
+            "Immigration": 30247,
+            "Emigration": 23287
+        }
+    ]
+}

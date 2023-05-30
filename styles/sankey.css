@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html {
+  font-family: 'Poppins', sans-serif;
+}
+
 #chart {
   margin-bottom: 30px;
 }
@@ -24,5 +30,37 @@
 }
 
 button#reset {
-  background-color: aquamarine;
+  background-color: #EA4C89;
+}
+
+button {
+  font-family: 'Poppins', sans-serif;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  background-color: #ECE3EC;
+}
+
+button:hover,
+button:focus {
+  background-color: #F082AC;
 }
