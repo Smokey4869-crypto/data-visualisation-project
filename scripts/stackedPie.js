@@ -108,7 +108,7 @@ function drawPieChart(svg, _data, index) {
     let tooltip = d3.select("#chart-pie")
         .append("div")
         .style("opacity", 0)
-        .attr("class", "tooltip")
+        .attr("class", "tooltip-pie")
         .style("background-color", "white")
         .style("border", "solid")
         .style("border-width", "1px")
@@ -165,6 +165,31 @@ function drawPieChart(svg, _data, index) {
         .on("mouseover", onMouseOver)
         .on("mousemove", onMouseMove)
         .on("mouseleave", onMouseLeave)
+
+    if (index == 0) {
+        g.append("text")
+            .attr("transform", function (d) {
+                return "translate(" + arc.centroid(d) + ")";
+            })
+            .style("font-size", "12px")
+            .attr("dy", ".35em")
+            .attr("fill", "white")
+            .attr("dx", function(d) {
+                if (d.data.nodeData.name == "Employment-related") {
+                    return "1em";
+                } else {
+                    return ""
+                }
+            })
+            .style("text-anchor", "middle")
+            .text(function (d) {
+                let name = d.data.nodeData.name;
+                if (name.endsWith("-related")) {
+                    return name.slice(0, -8);  // Remove the last 8 characters ("-related")
+                }
+                return name;
+            })
+    }
 }
 
 export function drawStackedPieChart(data, svg, radius) {

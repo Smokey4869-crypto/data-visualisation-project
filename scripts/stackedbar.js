@@ -15,7 +15,7 @@ let margin = {
 
 let marginPie = {
     top: 30,
-    right: 0, 
+    right: 0,
     bottom: 100,
     left: 0
 }
@@ -115,9 +115,14 @@ function stackBarChart(svg, datasetTotal) {
     // x-axis title 
     svg.append("text")
         .attr("x", w / 2)
-        .attr("y", h + margin.bottom * 3/5 - 10)
+        .attr("y", h + margin.bottom * 3 / 5 - 10)
         .text("Mobility Period")
         .classed("axis-title", true)
+
+    svg.append("text")
+        .attr("x", w / 2 - 60)
+        .attr("y", h + margin.bottom)
+        .text("Click on the bar to learn more")
 
     // y-axis title
     svg.append("text")

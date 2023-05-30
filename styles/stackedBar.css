@@ -11,15 +11,26 @@ html {
 
 .axis-title {
     font-weight: 600;
+    text-align: center;
 }
 
+
+
 .tooltip {
+    position: absolute;
+    z-index: 1070;
+    display: block;
+    margin: 0;
+}
+
+.tooltip-pie {
     position: relative;
     width: 150px;
     z-index: 1070;
     display: block;
     margin: 0;
 }
+
 
 #chart-pie {
     text-align: center;

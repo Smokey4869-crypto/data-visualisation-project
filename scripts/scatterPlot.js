@@ -14,6 +14,8 @@ let yearIndex = 0
 let intervalId
 let automatic = true
 
+let currentState = ""
+
 let tooltip = d3.select("#chart")
     .append("div")
     .style("opacity", 0)
@@ -38,6 +40,13 @@ const onMouseMove = function (d) {
 const onMouseLeave = function (d) {
     tooltip
         .style("opacity", 0)
+}
+const updateCurrentSelection = function (d) {
+    currentState = d.States
+    document.getElementById("current").textContent = "Current Selected State: " + d.States
+    document.getElementById("immigration").textContent = "Immigration: " + d.Immigration
+    document.getElementById("emigration").textContent = "Emigration: " + d.Emigration
+    document.getElementById("current-year").textContent = "Year: " + years[yearIndex]
 }
 
 function drawScatterPlotChart(data, svg) {
@@ -92,10 +101,7 @@ function drawScatterPlotChart(data, svg) {
                 d3.select(this).style("fill", "red");
             }
 
-            document.getElementById("current").textContent = "Current Selected State: " + d.States 
-            document.getElementById("immigration").textContent = "Immigration: " + d.Immigration
-            document.getElementById("emigration").textContent = "Emigration: " + d.Emigration
-            document.getElementById("current-year").textContent = "Year: " + years[yearIndex]
+            updateCurrentSelection(d)
         });
 
     // Add reference lines
@@ -183,6 +189,11 @@ function updateData(svg, index, data) {
         .duration(1000)
         .style('opacity', 0)
         .remove();
+    
+    if (currentState != "") {
+        updateCurrentSelection(newData.filter(d => d.States === currentState)[0])
+    }
+
 }
 
 function generateDropdown(svg, data) {
