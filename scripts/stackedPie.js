@@ -3,16 +3,16 @@ let maxRadius
 let multiLevelData = [];
 
 let color1 = d3.scaleOrdinal()
-    .range(["#edf8e9", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#005a32"])
+    .range(["#FFB4BF", "#FF8D9A", "#FF616E", "#FF001A"])
 
 let color2 = d3.scaleOrdinal()
-    .range(["#eff3ff", "#c6dbef", "#9ecae1", "#6baed6", "#4292c6", "#2171b5", "#084594"])
+    .range(["#FFFFFF", "#FFFFFF", "#FDF9E0", "#FAF3A3", "#F6ED69", "#F2E732", "#FEEB00"])
 
 let color3 = d3.scaleOrdinal()
-    .range(["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801", "#8c2d04"])
+    .range(["#E2E3FF", "#C5CEFF", "#A9B4FF", "#8D99FF", "#6B7BFF", "#485CFF", "#004AF3"])
 
 let color4 = d3.scaleOrdinal()
-    .range(["#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3", "#4a1486"])
+    .range(["#C8FFC8", "#B5FFB5", "#A2FFA2", "#8FFF8F", "#7AFF63", "#63FF3E", "#26EC00"])
 
 let pieWidth
 
@@ -120,7 +120,8 @@ function drawPieChart(svg, _data, index) {
             .html(d.data.nodeData.name + "<br>" + "Value: " + d.data.nodeData.value.toFixed(2))
             .style("opacity", 1)
     }
-    const onMouseMove = function (d) {
+    const onMouseMove = function () {
+        d3.select(this).style("stroke", "black")
         tooltip
             // Add a small amount due to the margin of the pieChart compared with the relative mouse position to the SVG
             .style("left", (d3.mouse(this)[0] + 200) + "px")
@@ -131,12 +132,12 @@ function drawPieChart(svg, _data, index) {
             .style("opacity", 0)
     }
 
-    g.append("path")
+    let circles = g.append("path")
         .attr("d", arc)
         .style("fill", function (d) {
             if (index == 0) {
                 if (d.data.group == 1) {
-                    return color1.range()[color1.range().length - 3];
+                    return color1.range()[color1.range().length - 1];
                 }
                 if (d.data.group == 2) {
                     return color2.range()[color2.range().length - 1];
@@ -162,9 +163,25 @@ function drawPieChart(svg, _data, index) {
                 }
             }
         })
-        .on("mouseover", onMouseOver)
-        .on("mousemove", onMouseMove)
-        .on("mouseleave", onMouseLeave)
+
+    if (index == 1) {
+        circles
+            .on("mouseover", function (d) {
+                onMouseOver(d);
+                d3.select(this).style("stroke", "black")
+                // tooltip
+                //     // Add a small amount due to the margin of the pieChart compared with the relative mouse position to the SVG
+                //     .style("left", (d3.mouse(this)[0] + 200) + "px")
+                //     .style("top", (d3.mouse(this)[1] - 200) + "px")
+            })
+            .on("mousemove", function (d) {
+                onMouseMove();
+            })
+            .on("mouseleave", function (d) {
+                onMouseLeave(d);
+                d3.select(this).style("stroke", "none")
+            })
+    }
 
     if (index == 0) {
         g.append("text")
@@ -173,8 +190,8 @@ function drawPieChart(svg, _data, index) {
             })
             .style("font-size", "12px")
             .attr("dy", ".35em")
-            .attr("fill", "white")
-            .attr("dx", function(d) {
+            .attr("fill", "black")
+            .attr("dx", function (d) {
                 if (d.data.nodeData.name == "Employment-related") {
                     return "1em";
                 } else {

@@ -15,7 +15,6 @@ html {
 }
 
 
-
 .tooltip {
     position: absolute;
     z-index: 1070;
@@ -24,7 +23,7 @@ html {
 }
 
 .tooltip-pie {
-    position: relative;
+    position: absolute;
     width: 150px;
     z-index: 1070;
     display: block;

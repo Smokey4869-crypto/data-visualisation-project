@@ -447,7 +447,7 @@ function dataByRegion(region) {
 
 
 let originalData = []
-d3.csv("data/sankey.csv", function (error, csv) {
+d3.csv("data/types_of_visas.csv", function (error, csv) {
   originalData = csv
 });
 

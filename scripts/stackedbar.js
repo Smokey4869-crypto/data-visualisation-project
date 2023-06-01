@@ -39,7 +39,7 @@ let xScale, yScale,
     xAxis, yAxis
 
 let color = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    .range(["#FF001A", "#FEEB00", "#004AF3", "#26EC00"]);
 
 // Data for stacked pie chart
 d3.json("data/reasons_for_moving_draft.json", function (error, json) {
@@ -154,7 +154,7 @@ function stackBarChart(svg, datasetTotal) {
         .attr("height", legendSizeSquare)
         .attr("fill", function (d, i) {
             return color(i)
-        });
+        })
 
     legend.append("text")
         .attr("x", w / 2 + 40)
