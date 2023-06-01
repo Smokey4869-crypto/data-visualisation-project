@@ -3,16 +3,16 @@ let maxRadius
 let multiLevelData = [];
 
 let color1 = d3.scaleOrdinal()
-    .range(["#FFB4BF", "#FF8D9A", "#FF616E", "#FF001A"])
+    .range(["#E8D4EB", "#D6BFE1", "#C5ABD7", "#B497CD", "#A381C3", "#916DB9", "#7F58AF"])
 
 let color2 = d3.scaleOrdinal()
-    .range(["#FFFFFF", "#FFFFFF", "#FDF9E0", "#FAF3A3", "#F6ED69", "#F2E732", "#FEEB00"])
+    .range(["#EAF2F4", "#D3EAF2", "#BDE3F1", "#A7DBEF", "#90D4EE", "#7ACCEC", "#64C5EB"])
 
 let color3 = d3.scaleOrdinal()
-    .range(["#E2E3FF", "#C5CEFF", "#A9B4FF", "#8D99FF", "#6B7BFF", "#485CFF", "#004AF3"])
+    .range(["#FFEBC9", "#FED0BE", "#FAB6B4", "#F79CA9", "#F2819F", "#ED6794", "#E84D8A"])
 
 let color4 = d3.scaleOrdinal()
-    .range(["#C8FFC8", "#B5FFB5", "#A2FFA2", "#8FFF8F", "#7AFF63", "#63FF3E", "#26EC00"])
+    .range(["#FFE6B0", "#FFDF99", "#FFD982", "#FFD06B", "#FFC754", "#FFBD3D", "#FEB326"])
 
 let pieWidth
 

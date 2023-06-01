@@ -85,20 +85,20 @@ function drawScatterPlotChart(data, svg) {
             return yScale(d.Immigration / 10000);
         })
         .attr("r", 10)
-        .style("fill", "#131BC1")
+        .style("fill", "#6800CF")
         .style("stroke", "#000")
         .on("mouseover", onMouseOver)
         .on("mousemove", onMouseMove)
         .on("mouseleave", onMouseLeave)
         .on("click", function (d) {
             // Change color of clicked dot
-            if (d3.select(this).style("fill") === "red") {
-                d3.select(this).style("fill", "#131BC1")
+            if (d3.select(this).style("fill") === "#00B803") {
+                d3.select(this).style("fill", "#6800CF")
             } else {
                 // Reset color of other dots
                 svg.selectAll("circle")
-                    .style("fill", "#131BC1");
-                d3.select(this).style("fill", "red");
+                    .style("fill", "#6800CF");
+                d3.select(this).style("fill", "#00B803");
             }
 
             updateCurrentSelection(d)
@@ -165,20 +165,20 @@ function updateData(svg, index, data) {
             return yScale(d.Immigration / 10000);
         })
         .attr("r", 10)
-        .style("fill", "#131BC1")
+        .style("fill", "#6800CF")
         .style("stroke", "#000")
         .on("mouseover", onMouseOver)
         .on("mousemove", onMouseMove)
         .on("mouseleave", onMouseLeave)
         .on("click", function () {
             // Change color of clicked dot
-            if (d3.select(this).style("fill") === "red") {
-                d3.select(this).style("fill", "#131BC1")
+            if (d3.select(this).style("fill") === "#00B803") {
+                d3.select(this).style("fill", "#6800CF")
             } else {
                 // Reset color of other dots
                 svg.selectAll("circle")
-                    .style("fill", "#131BC1");
-                d3.select(this).style("fill", "red");
+                    .style("fill", "#6800CF");
+                d3.select(this).style("fill", "#00B803");
             }
         });
 

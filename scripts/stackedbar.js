@@ -39,7 +39,7 @@ let xScale, yScale,
     xAxis, yAxis
 
 let color = d3.scaleOrdinal()
-    .range(["#FF001A", "#FEEB00", "#004AF3", "#26EC00"]);
+    .range(["#7F58AF", "#64C5EB", "#E84D8A", "#FEB326"]);
 
 // Data for stacked pie chart
 d3.json("data/reasons_for_moving_draft.json", function (error, json) {
