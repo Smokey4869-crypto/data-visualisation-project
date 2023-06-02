@@ -92,7 +92,8 @@ function drawScatterPlotChart(data, svg) {
         .on("mouseleave", onMouseLeave)
         .on("click", function (d) {
             // Change color of clicked dot
-            if (d3.select(this).style("fill") === "#00B803") {
+            // d3 color can only be read in rgb format so requires a conversion
+            if (d3.select(this).style("fill") !== "rgb(104, 0, 207)") {
                 d3.select(this).style("fill", "#6800CF")
             } else {
                 // Reset color of other dots
@@ -144,7 +145,8 @@ function updateData(svg, index, data) {
         .data(newData)
 
     // Update existing dots
-    dots
+    svg.selectAll("circle")
+        .data(newData)
         .transition()
         .duration(1000)
         .attr("cx", function (d) {
@@ -153,6 +155,7 @@ function updateData(svg, index, data) {
         .attr("cy", function (d) {
             return yScale(d.Immigration / 10000);
         })
+
 
     // Create new dots for any new dots
     dots
@@ -189,7 +192,7 @@ function updateData(svg, index, data) {
         .duration(1000)
         .style('opacity', 0)
         .remove();
-    
+
     if (currentState != "") {
         updateCurrentSelection(newData.filter(d => d.States === currentState)[0])
     }
