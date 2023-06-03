@@ -2,7 +2,7 @@
 
 html {
     font-family: 'Poppins', sans-serif;
-    margin: 30px 50px 0 30px;
+    margin: 0;
 }
 
 #content {
@@ -23,6 +23,10 @@ html {
     margin: 0;
 }
 
+.content {
+    padding-left: 50px;
+}
+
 .tooltip-pie {
     position: absolute;
     width: 150px;
@@ -34,8 +38,31 @@ html {
 
 #chart-pie {
     text-align: center;
+    margin-top: -30px;
 }
 
 #chart-pie svg, #chart-pie h3 {
     display: block;
 }
+
+header {
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    background-color: #47434B;
+    justify-content: space-between;
+    color: yellow;
+    padding: 10px 150px 10px 15px;
+    font-size: 1.3rem;
+}
+
+header a {
+    text-decoration: none;
+    color: yellow;
+}
+
+footer {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+  }

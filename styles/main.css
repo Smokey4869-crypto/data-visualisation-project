@@ -2,11 +2,39 @@
 
 html {
     font-family: 'Poppins', sans-serif;
-    margin: 30px 50px 0 30px;
 }
 
-div {
+div.text {
     width: 1000px;
     text-align: justify;
     text-justify: inter-word;
 }
+
+.content {
+    padding-left: 50px;
+}
+
+header {
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    background-color: #47434B;
+    justify-content: space-between;
+    color: yellow;
+    padding: 10px 150px 10px 15px;
+    font-size: 1.3rem;
+}
+
+header a {
+    text-decoration: none;
+    color: yellow;
+}
+
+footer {
+    margin-top: 200px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
