@@ -5,13 +5,13 @@ html {
 }
 
 div.text {
-    width: 1000px;
+    width: 80%;
     text-align: justify;
     text-justify: inter-word;
 }
 
 .content {
-    padding-left: 50px;
+    padding-left: 20px;
 }
 
 header {
