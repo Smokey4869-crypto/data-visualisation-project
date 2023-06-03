@@ -97,3 +97,9 @@ footer {
   flex-direction: row;
   gap: 30px
 }
+
+#description p {
+  width: 80%;
+  text-align: justify;
+  text-justify: inter-word;
+}

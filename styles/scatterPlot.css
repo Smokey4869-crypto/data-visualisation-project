@@ -20,9 +20,17 @@ html {
     display: flex;
 }
 
-.content {
+#scatter-plot {
     padding-left: 10px;
     padding-right: 20px;
+}
+
+#description {
+    margin-left: 50px;
+}
+
+#description p {
+    width: 80%;
 }
 
 .average-line {
@@ -80,6 +88,7 @@ header a {
 }
 
 footer {
+    margin-top: 100px;
     width: 100%;
     text-align: center;
-  }
+}

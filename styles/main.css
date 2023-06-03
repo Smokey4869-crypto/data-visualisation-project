@@ -2,6 +2,7 @@
 
 html {
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
 div.text {
