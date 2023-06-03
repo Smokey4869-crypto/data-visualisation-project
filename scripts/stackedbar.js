@@ -123,6 +123,7 @@ function stackBarChart(svg, datasetTotal) {
         .attr("x", w / 2 - 60)
         .attr("y", h + margin.bottom)
         .text("Click on the bar to learn more")
+        .style("font-weight", "bold")
 
     // y-axis title
     svg.append("text")

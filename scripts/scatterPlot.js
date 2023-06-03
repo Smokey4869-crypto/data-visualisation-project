@@ -10,6 +10,8 @@ let maxEmigration = -Infinity
 let years = []
 let yearIndex = 0
 
+let currentSelectedState = ""
+
 // time interval for automation
 let intervalId
 let automatic = true
@@ -100,9 +102,9 @@ function drawScatterPlotChart(data, svg) {
                 svg.selectAll("circle")
                     .style("fill", "#6800CF");
                 d3.select(this).style("fill", "#00B803");
-            }
 
-            updateCurrentSelection(d)
+                updateCurrentSelection(d)
+            }
         });
 
     // Add reference lines
@@ -180,8 +182,10 @@ function updateData(svg, index, data) {
             } else {
                 // Reset color of other dots
                 svg.selectAll("circle")
-                    .style("fill", "#6800CF");
-                d3.select(this).style("fill", "#00B803");
+                    .style("fill", "#6800CF")
+                d3.select(this).style("fill", "#00B803")
+
+                updateCurrentSelection(d)
             }
         });
 
@@ -200,7 +204,7 @@ function updateData(svg, index, data) {
 }
 
 function generateDropdown(svg, data) {
-    // Generate dropdown 
+    // Generate dropdown for year
     let select = document.createElement("select")
     select.name = "Year"
     select.id = "select"
@@ -214,9 +218,9 @@ function generateDropdown(svg, data) {
         years.push(year)
     }
 
-    var label = document.createElement("label");
+    let label = document.createElement("label");
     label.innerHTML = "Choose a year: "
-    label.htmlFor = "Choose a year";
+    label.htmlFor = "Choose a year: ";
     document.getElementById("dropdown").appendChild(label).appendChild(select)
 
     select.addEventListener("change", handleSelectChange)
@@ -230,6 +234,48 @@ function generateDropdown(svg, data) {
         document.getElementById("year").textContent = "Data displayed for year " + selectedYear
 
         updateData(svg, yearIndex, data)
+    }
+
+    // Generate dropdown for states
+    let selectState = document.createElement("select")
+    selectState.name = "State"
+    selectState.id = "select-state"
+
+    for (const d of data["2010"]) {
+        let option = document.createElement("option");
+        option.value = d.States
+        option.text = d.States
+        selectState.appendChild(option)
+    }
+
+    let labelState = document.createElement("label")
+    labelState.innerHTML = "Choose a state: "
+    labelState.htmlFor = "Choose a state: "
+
+    let breakEl = document.createElement("p")
+    document.getElementById("dropdown").appendChild(breakEl).appendChild(labelState).appendChild(selectState)
+
+    selectState.addEventListener("change", handleSelectChangeState)
+
+    function handleSelectChangeState(e) {
+        const selectedState = e.target.value
+
+        for (let d of data[years[yearIndex]]) {
+            if (d.States == selectedState) {
+                updateCurrentSelection(d)
+
+                let dataPoints = svg.selectAll("circle")._groups[0]
+
+                for (let point of dataPoints) {
+                    if (point.__data__.States == selectedState) {
+                        console.log(point)
+                        point.style.fill = "#00B803"
+                    }
+                }
+            }
+        }
+
+
     }
 }
 

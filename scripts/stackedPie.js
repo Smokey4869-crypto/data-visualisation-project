@@ -2,6 +2,7 @@ let maxRadius
 
 let multiLevelData = [];
 
+// color ranges
 let color1 = d3.scaleOrdinal()
     .range(["#E8D4EB", "#D6BFE1", "#C5ABD7", "#B497CD", "#A381C3", "#916DB9", "#7F58AF"])
 
