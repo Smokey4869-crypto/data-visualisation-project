@@ -63,10 +63,6 @@ button:focus {
     background-color: #F082AC;
 }
 
-#content {
-    margin-bottom: 200px;
-}
-
 header {
     position: sticky;
     display: flex;
@@ -84,7 +80,6 @@ header a {
 }
 
 footer {
-    margin-top: 20px;
     width: 100%;
     text-align: center;
   }
