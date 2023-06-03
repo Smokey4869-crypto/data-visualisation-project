@@ -268,7 +268,10 @@ function generateDropdown(svg, data) {
 
                 for (let point of dataPoints) {
                     if (point.__data__.States == selectedState) {
-                        console.log(point)
+                        svg
+                            .selectAll("circle")
+                            .style("fill", "#6800CF")
+                        
                         point.style.fill = "#00B803"
                     }
                 }
